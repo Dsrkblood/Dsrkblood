@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development,
 - 🌱 I’m currently learning React/Angular/Vue,
 - 💞️ I’m looking for work as a web developer.
-- 📫 How to reach me? Maybe her - przemyslawzoladek1302@gmail.com
+- 📫 How to reach me? Maybe here - przemyslawzoladek1302@gmail.com
