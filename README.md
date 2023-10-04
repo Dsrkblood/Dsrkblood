@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Przemysław,
-- 👀 I’m interested in Web Development,
-- 🌱 I’m currently learning React,
-- 💞️ I’m looking for work as a web developer.
-- 📫 How to reach me? Maybe here - przemyslawzoladek1302@gmail.com
+# Hi, I'm Przemysław 😄
