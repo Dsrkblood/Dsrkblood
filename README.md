@@ -1,7 +1,7 @@
 # Hi, I'm Przemysław 👋
 
 ## About me
-I'm 24 years old, student of computer science💻. I create websites using React technology. I'm constantly learning new and useful things for the process of building websites🏗️. My hobbies are off-road driving🚙🚲, gaming🎮 and DIY🔨.
+I'm 24 years old, student of computer science💻. I create websites using the React library. I'm constantly learning new and useful things for the process of building websites🏗️. My hobbies are off-road driving🚙🚲, gaming🎮 and DIY🔨.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/przemys%C5%82aw-%C5%BCo%C5%82%C4%85dek-026250251/">
