@@ -2,6 +2,10 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
 <p align="left">I'm 24 years old, student of computer science💻. I create websites using the React library. I'm constantly learning new and useful things for the process of building websites🏗️. My hobbies are off-road driving🚙🚲, gaming🎮 and DIY🔨.</p>
 
 ###
@@ -11,6 +15,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">Technologies I use</h3>
 
 ###
 
